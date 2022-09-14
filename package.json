@@ -1,0 +1,23 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "code given for the cse341-Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelvargas/CSE341-Node.git"
+  },
+  "author": "Rachel Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelvargas/CSE341-Node/issues"
+  },
+  "homepage": "https://github.com/rachelvargas/CSE341-Node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
